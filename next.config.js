@@ -1,6 +1,13 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-}
+require("dotenv").config();
+const webpack = require("webpack");
+// const nextConfig = {
+//   reactStrictMode: true,
+// };
 
-module.exports = nextConfig
+module.exports = {
+  webpack: (config) => {
+    config.plugins.push(new webpack.EnvironmentPlugin(process.env));
+    return config;
+  },
+};
