@@ -26,7 +26,7 @@ export default function Contact({}: Props) {
   //   window.location.href = `mailto:dancancode@protonmail.com?subject=${formData.subject}&body=Hi, my name is ${formData.name}. ${formData.message} (${formData.email})`;
   // };
 
-  const apiKey = process.env.PUBLIC_ACCESS_KEY || "YOUR_ACCESS_KEY_HERE";
+  const apiKey = process.env.NEXT_PUBLIC_ACCESS_KEY || "YOUR_ACCESS_KEY_HERE";
   const { submit: onSubmit } = useWeb3Forms({
     access_key: `${apiKey}`,
     settings: {
