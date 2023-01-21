@@ -34,7 +34,7 @@ export default function Hero({}: Props) {
           <span className="text-[#006aff] font-bold">
             {/* Style will be inherited from the parent element */}
             <Typewriter
-              words={["front-end focused.", "full-stack qualifie."]}
+              words={["front-end focused.", "full-stack qualified."]}
               loop={true}
               cursor
               cursorStyle="|"

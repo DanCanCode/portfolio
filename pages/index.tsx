@@ -13,7 +13,7 @@ export default function Home() {
         <title>Daniel Espinal | Frontend Engineer</title>
         <meta
           name="description"
-          content="Welcome to my portfolio website! My name is Daniel Espinal, I am a Self-driven Frontend Engineer located in New York."
+          content="Welcome to my portfolio website! My name is Daniel Espinal, I'm a self-driven Frontend Engineer located in New York."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

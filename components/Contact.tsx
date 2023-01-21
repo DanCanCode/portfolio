@@ -30,7 +30,7 @@ export default function Contact({}: Props) {
   const { submit: onSubmit } = useWeb3Forms({
     access_key: `${apiKey}`,
     settings: {
-      from_name: "dancancode.io",
+      from_name: "dancancode.dev",
       subject: "New Contact Message from your Website",
     },
     onSuccess: (msg, data) => {
