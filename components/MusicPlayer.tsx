@@ -77,7 +77,7 @@ export default function MusicPlayer({}: Props) {
     } else {
       setSong(songList[song.number + 1]);
     }
-    audioElem.current.firstChild.src = song.track;
+
     audioElem.current.currentTime = 0;
     audioElem.current.load();
     setIsPlaying(true);
@@ -93,14 +93,13 @@ export default function MusicPlayer({}: Props) {
 
     console.log(audioElem);
 
-    audioElem.current.firstChild.src = song.track;
     audioElem.current.currentTime = 0;
     audioElem.current.load();
     setIsPlaying(true);
     audioElem.current.play();
   };
 
-  const audioElem = useRef();
+  const audioElem = useRef<HTMLMediaElement>();
   return (
     <motion.div
       initial={{ opacity: 1, y: 40 }}
