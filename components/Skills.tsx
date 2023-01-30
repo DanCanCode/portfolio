@@ -29,45 +29,59 @@ export default function Skills({}: Props) {
           }
         />
         <Skill
-          percent={80}
+          percent={90}
           source={
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
           }
         />
         <Skill
-          percent={80}
+          percent={90}
+          source={
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+          }
+        />
+        <Skill
+          percent={90}
           source={
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           }
         />
         <Skill
-          percent={80}
+          percent={90}
           source={
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
           }
         />
         <Skill
-          percent={70}
+          percent={80}
           source={
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
           }
         />
         <Skill
+          percent={70}
+          source={
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+          }
+        />
+        <Skill
+          percent={80}
+          source={
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          }
+        />
+        <Skill
+          directionLeft={true}
           percent={80}
           source={
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
           }
         />
         <Skill
+          directionLeft={true}
           percent={80}
           source={
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-          }
-        />
-        <Skill
-          percent={60}
-          source={
-            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           }
         />
         <Skill
@@ -93,9 +107,9 @@ export default function Skills({}: Props) {
         />
         <Skill
           directionLeft={true}
-          percent={90}
+          percent={70}
           source={
-            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
           }
         />
         <Skill
@@ -110,20 +124,6 @@ export default function Skills({}: Props) {
           percent={80}
           source={
             "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-          }
-        />
-        <Skill
-          directionLeft={true}
-          percent={70}
-          source={
-            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-          }
-        />
-        <Skill
-          directionLeft={true}
-          percent={80}
-          source={
-            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
           }
         />
       </div>

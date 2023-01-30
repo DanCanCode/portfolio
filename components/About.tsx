@@ -41,16 +41,17 @@ export default function About({}: Props) {
           background.
         </h4>
         <p className="pr-3 sm:text-base text-sm max-w-2xl max-h-72 overflow-y-scroll scrollbar-thin scrollbar-track-neutral-400/20 scrollbar-thumb-[#006aff]/80">
-          My name is Daniel , and I am a self-driven Frontend Engineer located
-          in New York. Since I was a kid, I loved building computers and working
-          on small projects for my friends. Since then, I have had the pleasure
-          of working with multiple software engineers to develop and deploy
-          modern web applications using the latest ES6 features and JavaScript
-          frameworks. As I continue to expand my knowledge as a developer, I
-          seek to create software that will have a lasting impact on the world.
-          I am eager to work in an agile environment with a team of developers
-          who prioritize communication, mentorship, and critical thinking. Feel
-          free to connect and chat!
+          My name is Daniel, and I am a Frontend Software Engineer located in
+          New York. I bring a passion for developing user-centered and
+          aesthetically pleasing digital experiences. Proficient in HTML, CSS,
+          JavaScript, and React, I have hands-on experience in creating
+          responsive websites, building UI components, and implementing
+          interactivity. Proven track record of working effectively with other
+          software engineers in a fast-paced, deadline-driven environment,
+          consistently delivering quality work. My strong problem-solving skills
+          and attention to detail make me an asset to any team looking for a
+          proactive and dedicated developer. Seeking opportunities to continue
+          honing my craft and grow as a professional in the tech industry!
         </p>
       </div>
     </motion.div>
