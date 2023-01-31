@@ -12,9 +12,9 @@ type Props = {};
 const songList = [
   {
     number: 0,
-    title: "BAR Rainy - Yakuza 5",
+    title: "Money Makes Money - Yakuza 0",
     track:
-      "https://vgmsite.com/soundtracks/ryu-ga-gotoku-5-yume-kanaeshi-mono-original-soundtrack-vol.2-yakuza-5/aryjbdgg/36-BAR%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%88%20-%20Rainy%20-.mp3",
+      "https://vgmsite.com/soundtracks/ryu-ga-gotoku-zero-yakuza-0-ost-a-and-b-sides/wvpwrpiv/1-09%20Money%20Makes%20Money.mp3",
   },
 
   {
@@ -25,9 +25,9 @@ const songList = [
   },
   {
     number: 2,
-    title: "Money Makes Money - Yakuza 0",
+    title: "BAR Rainy - Yakuza 5",
     track:
-      "https://vgmsite.com/soundtracks/ryu-ga-gotoku-zero-yakuza-0-ost-a-and-b-sides/wvpwrpiv/1-09%20Money%20Makes%20Money.mp3",
+      "https://vgmsite.com/soundtracks/ryu-ga-gotoku-5-yume-kanaeshi-mono-original-soundtrack-vol.2-yakuza-5/aryjbdgg/36-BAR%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%88%20-%20Rainy%20-.mp3",
   },
   {
     number: 3,
