@@ -27,27 +27,25 @@ export default function Projects({}: Props) {
           title="Simply Together Events 2.0"
           image="/simplytogether.png"
           link="https://github.com/DanCanCode/simply-together-events-2.0"
-          description="Simply Together Events offers a variety of event services to enhance any upcoming celebration for you and loved ones. They offer event planning, event design, event creation, luxury picnics, and party rentals. I built this website with a mobile-first responsive design approach."
+          description="Transform your events into unforgettable experiences with Simply Together Events. Our user-friendly platform is designed to make event planning a breeze, with interactive tools and a wide range of services. From event planning and design to luxury picnics and party rentals, we have everything you need to make your celebration truly special. With a mobile-first approach, enjoy a seamless experience on any device for a hassle-free event planning process. Let's make your next celebration simply unforgettable."
         />
         <Project
           title="Comemos (Instagram Clone)"
           image="/comemos.png"
           link="https://github.com/DanCanCode/Comemos"
-          description="Comemos is a social media platform where users can share food, recipes, and connect with others. Employed MERN Stack to construct front-end components connected to back-end to access MongoDB database with Mongoose and API routes. This application has full CRUD functionality and user authentication via JSON Web Tokens and Bcrypt.
-          "
+          description="Comemos is a social media platform that enables users to share mouth-watering recipes, connecting with like-minded foodies, and discovering new dishes. Built using the MERN Stack, the platform features a seamless connection between its front-end components and back-end, powered by React and MongoDB. With full CRUD functionality and user authentication, Comemos delivers a comprehensive and secure experience for food enthusiasts."
         />
         <Project
           title="Honeydew Automobile E-commerce"
           image="/honeydew.png"
           link="https://github.com/DanCanCode/honeydew-automobile-ecom"
-          description="Honeydew automobiles is a basic ecommerce website used to demonstrate CRUD functions. This app is built on the PERN stack and utilizes sequelize, tailwindcss, and framer motion. This project is associated with Fullstack Academy 2202 cohort"
+          description="Rev your engines with Honeydew Automobiles - the ultimate online marketplace for your automotive needs. Shop a vast selection of vehicles with ease, all from the comfort of your own home. Developed with cutting-edge PERN stack technology, this e-commerce website boasts effortless user experience, from profile management to cart customization and order tracking. Elevate your browsing journey with fluid animations powered by Framer Motion. Proudly built by a skilled team of 4 engineers at Fullstack Academy."
         />
         <Project
           title="Lifestyle (Mobile Fitness App)"
           image="/lifestyle.jpeg"
           link="https://github.com/FSA-Capstone-Lifestyle/Lifestyle"
-          description="Lifestyle is a mobile fitness tracking app that my team and I developed in 3 weeks at Fullstack Academy. Users of lifestyle can create new exercises/meals and add them to their personal fitness plan. Users also have the option to edit and remove items from their plan.
-          "
+          description="Lifestyle is a mobile fitness and health application that streamlines the process of finding exercises and recipes. The app enables users to craft personalized workouts and meal plans, as well as track their progress throughout the week. This project is powered by React Native, Expo, and PostgreSQL to bring together the best of mobile and the web. This project was a collaborative effort between myself and 3 talented engineers at Fullstack Academy."
         />
       </div>
 

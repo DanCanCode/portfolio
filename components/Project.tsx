@@ -35,7 +35,7 @@ export default function Project({ title, image, description, link }: Props) {
           </a>
         </h4>
 
-        <p className="sm:text-lg xs:text-base text-sm text-center">
+        <p className="pr-3 sm:text-lg xs:text-base text-sm text-center max-h-[250px] overflow-y-scroll scrollbar-thin scrollbar-track-neutral-400/20 scrollbar-thumb-[#006aff]/80">
           {description}
         </p>
       </div>
