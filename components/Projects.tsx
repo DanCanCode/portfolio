@@ -45,7 +45,7 @@ export default function Projects({}: Props) {
           title="Lifestyle (Mobile Fitness App)"
           image="/lifestyle.jpeg"
           link="https://github.com/FSA-Capstone-Lifestyle/Lifestyle"
-          description="Lifestyle is a mobile fitness and health application that streamlines the process of finding exercises and recipes. The app enables users to craft personalized workouts and meal plans, as well as track their progress throughout the week. This project is powered by React Native, Expo, and PostgreSQL to bring together the best of mobile and the web. This project was a collaborative effort between myself and 3 talented engineers at Fullstack Academy."
+          description="Elevate your health and fitness game with Lifestyle - the mobile app that simplifies the journey to wellness. Say goodbye to the hassle of piecing together workouts and meal plans. With Lifestyle, you can craft customized routines and track your progress with ease. Built using React Native, Expo, and PostgreSQL, this app is the result of a collaborative effort between myself and three skilled engineers at Fullstack Academy."
         />
       </div>
 
