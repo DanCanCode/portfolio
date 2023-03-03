@@ -24,6 +24,12 @@ export default function Projects({}: Props) {
 
       <div className="relative w-full flex overflow-x-scroll snap-x snap-mandatory z-20  scrollbar-thin scrollbar-track-neutral-400/20 scrollbar-thumb-[#006aff]/80">
         <Project
+          title="Kryptovest"
+          image="/kryptovest.png"
+          link="https://github.com/DanCanCode/Kryptovest"
+          description="Enter the future of the internet with Kryptovest - the cutting-edge web 3 platform that empowers you to effortlessly send and receive ethereum across the world. Leveraging the unparalleled security and anonymity of blockchain technology, Kryptovest ensures your transactions are always safe and secure. Built on the powerful PERN stack and featuring smart contracts powered by solidity, Kryptovest is the ultimate solution for anyone looking to stay ahead of the game in the dynamic world of cryptocurrency."
+        />
+        <Project
           title="Simply Together Events 2.0"
           image="/simplytogether.png"
           link="https://github.com/DanCanCode/simply-together-events-2.0"
